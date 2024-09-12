@@ -1,0 +1,230 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.image{
+    background-image: url(./Images/front-pg-banner-mobile-v8.jpg);
+    height: 100vh;
+    width: 100%;    
+    background-repeat: no-repeat;
+    /* background-size: 100% 100vh; */
+    background-size: cover; 
+
+}
+
+
+.image button{
+    margin-left: 50%;
+    /* display: flex;
+    justify-content: space-around; */
+
+}
+
+
+
+.box1{
+    border: solid 1px black;
+}
+
+.section2 button{
+    /* display: block;
+    justify-content: space-evenly; */
+    background-color:rgb(221, 25, 58);
+    color: white;
+    margin-left: 50%;
+}
+.icons2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card2{
+    /* border: solid 2px black; */
+    height: 250px;
+    width: 300px;
+    /* background-color: #997a7a; */
+    margin:10px;
+    
+}
+
+
+.section3 h1{
+    color: brown;
+    text-align: center;
+}
+
+.bg-img4{
+    background-image: url(./Images/prime-background-home.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: cover;
+
+    
+
+}
+.bg-img4 h2{
+    display: block;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.card3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.item3{
+    border: solid 8px whitesmoke;
+    height: 120px;
+    width: 300px;
+    margin: 10px;
+}
+.item3 a{
+   
+    padding-left: 10px;
+    text-decoration: none;
+    
+}
+.item3 button{
+    display:block; 
+   
+    margin-left: 30%;
+    margin-top: 20px;
+}
+
+.box4{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.card4{
+    background: solid 5px black;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    background-color: black;
+    color: white;
+   
+    margin: 10px;
+   
+}
+.card4 p{
+    font-size: 13px;
+    font-family:cursive;
+}
+.bg-img4 h1{
+    padding-top: 30px;
+    color: white;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.conatiner5{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box5{
+    /* border: solid 3px black; */
+    height: 350px;
+    width: 400px;
+    /* background-color: aqua; */
+
+    margin: 10px;
+    
+}
+
+.img-box{
+    /* border: solid 5px black; */
+    height: 210px;
+    width: 300px;
+    /* background-color: aqua; */
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.box5 h1{
+    font-size: 20px;
+    text-align: center;
+}
+.box5 a{
+    /* text-align: center; */
+}
+
+.section6 h1{
+    text-align: center;
+}
+
+.container6{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.box6{
+    /* border: solid 1px black; */
+    height: 250px;
+    width: 400px;
+    margin: 10px;
+}
+
+.card6{
+    border: solid 2px black;
+    height: 90px;
+    width: 70%;
+    border-radius: 20px;
+    margin-left: 15%;
+    padding: 10px;
+    
+
+}
+
+.card61{
+    border: solid 1px black;
+    height: 180px;
+    width: 80%;
+    border-radius: 20px;
+    margin-left: 10%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color:gainsboro;
+    
+}
+
+.footer{
+    height: 75px;
+    width: 50%;
+    border: solid 1px red;
+    background-color: aquamarine;
+}
+.foot{
+   
+    margin-bottom: 0px;
+    text-align: end;
+    height: 75px;
+    width: 50%;
+    border: solid 1px red;
+    background-color: black;
+}
+.parent{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
